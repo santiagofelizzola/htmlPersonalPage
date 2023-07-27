@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(150, 167, 210);
+    background-color: rgb(201, 212, 242);
     list-style-position: inside;
-    
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
 }
 img {
     border-radius: 50%;
@@ -12,5 +12,15 @@ img {
     border-color: black;
     border-style: ridge;
 }
-
-
+#bioContent {
+    max-width: 30%;
+}
+h3 {
+    text-decoration: underline;
+}
+ul, ol {
+    padding: 0%;
+}
+#playButton {
+    padding-top: 30px;
+}
