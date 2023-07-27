@@ -10,7 +10,7 @@ img {
     max-height: auto;
     display: inline-flex;
     border-color: black;
-    border-style: ridge;
+    border-style: ridge;;
 }
 #bioContent {
     max-width: 40%;
@@ -23,4 +23,10 @@ ul, ol {
 }
 #playButton {
     padding-top: 30px;
+}
+.imgIntro {
+    display: flex;
+}
+.oneOnly {
+   margin: 100px 0 0 10px;
 }
