@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(150, 167, 210);
+    list-style-position: inside;
+    
+
+}
+img {
+    border-radius: 50%;
+    max-width: 250px;
+    max-height: auto;
+    display: inline-flex;
+    border-color: black;
+    border-style: ridge;
+}
+
+
